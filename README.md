@@ -1,10 +1,13 @@
-# First_Proyect
+# Titanic EDA
 
-EDA Titanic
+**Motivation 💪🏼 :** Improve analytics skills
 
-In the following lines I will analyze the famous Titanic dataset, using the most usual libraries for python, numpy & pandas.
-I will also use matplotlib and seaborn to show some graphics that support the analysis.
+In this EDA you will find an approach about analizing the famous Titanic dataset. 
 
-Then i'focus on difrent ways to make graphs.
+**Packages**
+- Pandas
+- Matplotlib
+- Numpy
+- Seaborn 
 
 Ihope you'll enjoy it!
